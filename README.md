@@ -6,6 +6,7 @@ this repo is to learn typescript.
 - [x] loops
 - [x] Arrays
     - [ ] Mixed Arrays.
+- [ ] Strings
 - [ ] Objects
 - [ ] Functions
 - [ ] Union and Intersection Types:

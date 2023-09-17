@@ -1,0 +1,12 @@
+This notes will save your time :)
+
+Strings:
+- while working on string interpolation, you need to
+    use strings with backstick(`) not with ' or ".
+- Backticks allow you to create multi-line strings without the need for escape characters or concatenation.
+    This is especially helpful when writing long strings, such as HTML templates, SQL queries, or JSON objects.
+
+Functions: 
+- we need to declare the return type of Function while defining Functions.
+
+

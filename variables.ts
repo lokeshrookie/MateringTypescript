@@ -1,8 +1,17 @@
 //---------------looops--------------------------------
 var students: string[] = ["lokesh", "rakesh", "ram", "prudhvi"];
 
-let dynamic: any = 66;
-console.log(dynamic)
+for(let index = 0; index<students.length; index++){
+    console.log(students[index]);
+}
+
+let index: number = 0;
+while(index<students.length){
+    console.log(students[index])
+}
+
+
+
 
 
 

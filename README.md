@@ -5,4 +5,10 @@ this repo is to learn typescript.
 - [x] type Annotations
 - [x] loops
 - [x] Arrays
-- [x]
+    - [ ] Mixed Arrays.
+- [ ] Objects
+- [ ] Functions
+- [ ] Union and Intersection Types:
+- [ ] Type Aliases
+- [ ] Generics
+- [ ] Type Inference

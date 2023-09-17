@@ -11,6 +11,7 @@ while(index<students.length){
 }
 
 
+let local = "banglore";
 // comment
 
 
